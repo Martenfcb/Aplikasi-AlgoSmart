@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387856978119",
+    "project_id": "sqlearning-sijunjung-81c7e",
+    "storage_bucket": "sqlearning-sijunjung-81c7e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387856978119:android:03b884e85ed71192702ee2",
+        "android_client_info": {
+          "package_name": "com.example.sqlearning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD6dI_madfxDjEc7xmIpjvnHFxuiVza9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
